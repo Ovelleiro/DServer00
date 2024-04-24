@@ -1,0 +1,17 @@
+[user]
+	name = Ovelleiro
+	email = aovelmart@gmail.com
+[core]
+	editor = nano
+[merge]
+	tool = vimdiff
+[http]
+	proxy = http://192.168.0.11:3128
+[https]
+	proxy = https://192.168.0.11:3128
+[ftp]
+	proxy = ftp://192.168.0.11:3128
+[safe]
+	directory = /var/www/html/prueba
+[init]
+	defaultBranch = prueba

@@ -1,0 +1,2 @@
+chown ftp:nogroup /srv/carpeta_usuario
+chmod 770 /srv/carpeta_usuario
